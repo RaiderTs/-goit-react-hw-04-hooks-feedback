@@ -1,0 +1,23 @@
+.section {
+  height: 270px;
+  display: grid;
+  justify-content: inherit;
+  max-width: 600px;
+  margin-left: 10%;
+  margin-right: auto;
+  padding: 25px;
+  /* background-color:rgb(233, 227, 235); ; */
+  /* box-shadow: 4px -1px 37px 20px rgba(39, 115, 187, 0.39);
+  border: 2px solid rgb(250, 252, 243); */
+      background: rgba(0, 0, 0, 0.2);
+     
+}
+
+.title {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 22px;
+  display: flex;
+  justify-content: center;
+  color: #ffffff
+}
