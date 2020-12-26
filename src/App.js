@@ -2,7 +2,7 @@
 import { useState } from 'react'; // Импортируем useState
 import Section from './components/Section/Section.jsx';
 import FeedbackOptions from './components/FeedbackOptions/FeedbackOptions.jsx';
-import { Data } from './components/data/data';
+import { Data } from './data/data';
 import Statistics from './components/Statistics/Statistics.jsx';
 
 function App() {
